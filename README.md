@@ -21,5 +21,6 @@ Give credit here.
 * References if any Upgrad
 
 ## Contact
-Created by [@ErAK1006] - feel free to contact me!
+Created by [@ErAK1006]
+
 https://github.com/ErAK1006/Neural_Networks_Project_Gesture_Recognition_Aditya
